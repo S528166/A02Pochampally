@@ -1,0 +1,35 @@
+body{
+	padding-top:80px;
+	text-align:center;
+}
+
+
+.navbar{
+	padding-left:100px;
+	font-size:15px;
+	
+}
+#prod_image1{
+	padding-top:8px;
+}
+#prod_title{
+	color:black;
+	font-family:"Myriad Pro";
+	font-weight:bold;
+	font-size:20px;
+}
+#price{
+	color:black;
+	font-family:"Myriad Pro";
+	font-size:25px;
+	
+}
+
+}
+#submit{
+	
+	width:100%;
+	text-align:center;
+	padding-top:30px;
+}
+

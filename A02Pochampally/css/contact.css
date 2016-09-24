@@ -1,0 +1,116 @@
+body{
+	padding-top:80px;
+	text-align:center;
+}
+
+
+.navbar{
+	padding-left:100px;
+	font-size:15px;
+	
+}
+body{
+	margin:0 0;
+	padding:0 0;
+}
+#header{
+	background-color:#000;
+	width:100%;
+	height:80px;
+	
+}
+
+#header2{
+	font-family:"Myriad Pro";
+	height:10px;
+	width:100%;
+	background-color:#00AA99;
+}
+#navbar{
+	width:35%;
+	font-size:21px;
+	float:right;
+	margin-top:30px;
+	
+}
+	
+#home{
+	font-family:"Myriad Pro";
+	display:inline;
+	color:#fff;
+	text-decoration:none;
+}
+
+#buy{
+	font-family:"Myriad Pro";
+	display:inline;
+	color:#fff;
+	font-size:20px;
+}
+#buy:hover{
+	font-family:"Myriad Pro";
+	display:inline;
+	color:#fff;
+	font-weight:bold;
+	font-size:21px;
+}
+#home:hover{
+	font-family:"Myriad Pro";
+	display:inline;
+	color:#00AA99;
+	font-weight:bold;
+	font-size:21px;
+}
+#contact{
+	font-family:"Myriad Pro";
+	display:inline;
+	color:#fff;
+	font-size:20px;
+}
+#heading{
+	color:#00AA99;
+	font-size:45px;
+	text-align:center;
+	padding-top:25px;
+	font-family:"Myriad Pro";
+}
+#heading{
+	padding-top:80px;
+}
+#connect_title{
+	text-align:center;
+	color:black;
+	font-family:"Myriad Pro";
+	font-size:25px;
+	padding-top:18px;
+}
+#icons{
+	margin:0 auto;
+	text-align:center;
+	padding-top:10px;
+}
+.text_field{
+	background-repeat:no-repeat;
+	background-image:url(../images/text_field.png);
+	width:365px;
+	height:34px;
+	border:none;
+	padding-left:15px;
+}
+#fields{
+	text-align:center;
+	padding-top:45px;
+}
+#submit{
+	text-align:center;
+	padding-top:15px;
+}
+
+
+#submit{
+	
+	width:100%;
+	text-align:center;
+	padding-top:100px;
+}
+
